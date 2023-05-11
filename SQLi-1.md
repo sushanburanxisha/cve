@@ -1,8 +1,4 @@
-# Online Exam System v1.0 has SQL injection
-
 BUG_Author:hukai
-
-Website source code address: https://www.sourcecodester.com/php/13877/online-exam-timer.html
 
 Vulnerability File: /CEE/adminpanel/admin/facebox_modal/updateCourse.php
 
